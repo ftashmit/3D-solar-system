@@ -4,7 +4,7 @@ Welcome to the **Realistic 3D Solar System** project — a fully interactive and
 
 Explore the solar system in both scientifically accurate and simplified modes, learn about each celestial body, and experience an immersive 3D journey through space.
 
-<!-- [🌍 Live Demo](https://your-username.github.io/realistic-3d-solar-system) -->
+[🌍 Live Demo](https://3-d-solar-system-kappa.vercel.app/)
 
 ![3D Solar System Preview](image/realistic-3D-solar-System.gif)
 
