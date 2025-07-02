@@ -4,9 +4,16 @@ Welcome to the **Realistic 3D Solar System** project — a fully interactive and
 
 Explore the solar system in both scientifically accurate and simplified modes, learn about each celestial body, and experience an immersive 3D journey through space.
 
-[🌍 Live Demo](https://3-d-solar-system-kappa.vercel.app/)
+🔗 **Live Demo**: [Click here to view the simulation](https://3-d-solar-system-kappa.vercel.app/)  
+📂 **GitHub Repository**: [https://github.com/ftashmit/3D-solar-system](https://github.com/ftashmit/3D-solar-system)
 
 ![3D Solar System Preview](image/realistic-3D-solar-System.gif)
+
+---
+
+## 📖 About
+
+This project is a realistic and interactive 3D simulation of our solar system, created using Three.js, HTML, CSS, and JavaScript. It allows users to explore planets, view orbital movements, and access detailed information about each celestial body. Designed to be both educational and visually engaging, it's ideal for anyone interested in astronomy or 3D web development.
 
 ---
 
@@ -34,6 +41,28 @@ Explore the solar system in both scientifically accurate and simplified modes, l
 
 ---
 
+## ▶️ How to Run the Project Locally
+
+Follow these simple steps to run the project on your machine:
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/ftashmit/3D-solar-system.git
+2. **Navigate to the Project Directory**
+
+   ```bash
+   cd 3D-solar-system
+Open index.html in Your Browser
+You can either:
+Double-click the index.html file to open it directly
+OR
+Serve it with a local development server for best results:
+Using Live Server (VS Code Extension):
+Open the folder in VS Code
+Install the Live Server extension (if not already installed)
+Right-click on index.html and select "Open with Live Server"
+
+---
 ## 🚀 Future Enhancements *(Optional)*
 
 - Add moons and other celestial bodies (asteroids, dwarf planets)
@@ -42,4 +71,4 @@ Explore the solar system in both scientifically accurate and simplified modes, l
 
 ---
 
-Feel free to fork, contribute, or customize this project for your own use. Happy stargazing! 🌠
+Feel free to fork, contribute, or customize this project for your own use. 
